@@ -33,7 +33,7 @@ Apasionado por la seguridad ofensiva y el hacking ético. Resuelvo máquinas en 
 
 | Máquina | Plataforma | Dificultad | CVE / Técnica |
 |---|---|---|---|
-| [GhostCat](./writeups/tryhackme/easy/GhostCat-Writeup.md) | TryHackMe | 🟢 Easy | CVE-2020-1938 · LFI · GPG Cracking |
+| [GhostCat](./writeups/tryhackme/easy/GhostCat.md) | TryHackMe | 🟢 Easy | CVE-2020-1938 · LFI · GPG Cracking |
 
 > *Más writeups próximamente...*
 
